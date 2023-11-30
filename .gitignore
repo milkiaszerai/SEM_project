@@ -1,3 +1,21 @@
+# Ignore the .gitignore file
+.gitignore
+
+# csv files to ignore
+*.csv 
+
+# folders to ignore in the SEM project
+data1/
+data2/
+abstract/
+paper/
+tmp/
+
+
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
