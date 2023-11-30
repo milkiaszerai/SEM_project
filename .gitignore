@@ -2,7 +2,7 @@
 .gitignore
 
 # csv files to ignore
-*.csv 
+# *.csv 
 
 # folders to ignore in the SEM project
 data1/
