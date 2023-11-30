@@ -2,7 +2,7 @@
 .gitignore
 
 # csv files to ignore
-# *.csv 
+*.csv 
 
 # folders to ignore in the SEM project
 data1/
@@ -11,11 +11,6 @@ abstract/
 paper/
 fig/
 tmp/
-
-
-
-
-
 
 
 # Byte-compiled / optimized / DLL files
